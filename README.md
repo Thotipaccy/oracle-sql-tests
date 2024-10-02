@@ -17,9 +17,9 @@ Books: Contains details about books, including a unique book ID, title, and a re
 Borrowers: Holds records of individuals who can borrow books from the library.
 Loans: Records the loans of books to borrowers, including loan dates and return dates.
 
-        ----Conceptual Diagram---
+        Conceptual Diagram
 
-      ![alt text](image-1.png)
+  ![alt text](image-5.png)
 
           SQL Commands Executed
 --------1. DDL Commands-------
@@ -138,4 +138,4 @@ Granting Privileges: Granting permissions to other users will allow for collabor
 Conclusion
 The Library Management System database is now fully functional, supporting essential operations for managing books, authors, borrowers, and loans. Further enhancements can include implementing advanced queries and developing a user interface for easier interaction with the database.
 
->>>>>>> master
+
