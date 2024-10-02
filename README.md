@@ -19,7 +19,8 @@ Loans: Records the loans of books to borrowers, including loan dates and return 
 
         ----Conceptual Diagram---
 
-      ![alt text](image-1.png)
+   [image-1](https://github.com/user-attachments/assets/caf4ceea-fb42-473d-bcaa-58d908a769d8)
+
 
           SQL Commands Executed
 --------1. DDL Commands-------
