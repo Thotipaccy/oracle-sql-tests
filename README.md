@@ -19,7 +19,12 @@ Loans: Records the loans of books to borrowers, including loan dates and return 
 
         Conceptual Diagram
 
+<<<<<<< HEAD
   ![alt text](image-5.png)
+=======
+   [image-1](https://github.com/user-attachments/assets/caf4ceea-fb42-473d-bcaa-58d908a769d8)
+
+>>>>>>> 21df3a45fd745a560448382cb455e61f5776599a
 
           SQL Commands Executed
 --------1. DDL Commands-------
@@ -110,7 +115,7 @@ GRANT SELECT, INSERT ON Authors TO DIP;
 Committing Transactions: Example command to commit changes.
 COMMIT;
 
-*******ScreenshotS****
+*******Screenshots****
 
 SQL Queries and Results
 Insert Query:
