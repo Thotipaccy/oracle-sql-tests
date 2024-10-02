@@ -110,7 +110,7 @@ GRANT SELECT, INSERT ON Authors TO DIP;
 Committing Transactions: Example command to commit changes.
 COMMIT;
 
-*******ScreenshotS****
+*******Screenshots****
 
 SQL Queries and Results
 Insert Query:
@@ -138,4 +138,4 @@ Granting Privileges: Granting permissions to other users will allow for collabor
 Conclusion
 The Library Management System database is now fully functional, supporting essential operations for managing books, authors, borrowers, and loans. Further enhancements can include implementing advanced queries and developing a user interface for easier interaction with the database.
 
->>>>>>> master
+
